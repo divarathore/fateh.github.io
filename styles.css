@@ -1,0 +1,19 @@
+html {
+    background-color: rgb(14, 87, 63);
+}
+.centre {
+    text-align: center;
+    color: rgb(198, 255, 235);
+    position: relative;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a {
+    color: rgb(198, 255, 235);
+}
+img {
+    max-width: 100%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
